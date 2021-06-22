@@ -1,0 +1,106 @@
+
+.wrapper{
+    padding-top: 20px;
+    margin-bottom: 40px;
+    height: 60px;
+    width: 40vw;
+    line-height: 50px;
+    border-radius: 10px;
+
+}
+.wrapper nav{
+    position: relative;
+    display: flex;
+    background: #fff;
+    border: 2px solid rgb(231, 231, 231);
+    border-radius: 10px;
+}
+.wrapper nav label{
+    flex: 1;
+    width: 100%;
+    z-index: 1;
+    cursor: pointer;
+}
+.wrapper nav label a{
+    position: relative;
+    z-index: -1;
+    color: #1d1f20;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.6s ease;
+}
+
+.wrapper nav #navBtn1:checked ~ label.navBtn1 a,
+.wrapper nav #navBtn2:checked ~ label.navBtn2 a,
+.wrapper nav #navBtn3:checked ~ label.navBtn3 a,
+.wrapper nav #navBtn4:checked ~ label.navBtn4 a,
+.wrapper nav #navBtn5:checked ~ label.navBtn5 a{
+    color: indianred;
+}
+
+.wrapper nav #navBtn1:hover ~ label.navBtn1 a,
+.wrapper nav #navBtn2:hover ~ label.navBtn2 a,
+.wrapper nav #navBtn3:hover ~ label.navBtn3 a,
+.wrapper nav #navBtn4:hover ~ label.navBtn4 a,
+.wrapper nav #navBtn5:hover ~ label.navBtn5 a{
+    color: #fff;
+}
+
+
+/*.wrapper nav label a i{
+    font-size: 16px;
+    margin: 0 7px;
+}*/
+/* ANIMAÇÃO DO MOVIMENTO DA TAB DO MENU */
+.wrapper nav .tab{
+    position: absolute;
+    height: 100%;
+    width: 20%;
+    left: 0;
+    bottom: 0;
+    z-index: 0;
+    border-radius: 10px;
+    background: linear-gradient(45deg, #000a25 0%, #192c20 100%);
+    transition: 0.2s cubic-bezier(0.50, -0.10, 0.265, 1.10);
+}
+
+/* MANTEM A POSIÇAO DA TAB DEPOIS DE CLICAR NO BOTAO */
+.wrapper nav #navBtn1:checked ~ .tab{
+    left: 0%;
+}
+.wrapper nav #navBtn2:checked ~ .tab{
+    left: 20%;
+}
+.wrapper nav #navBtn3:checked ~ .tab{
+    left: 40%;
+}
+.wrapper nav #navBtn4:checked ~ .tab{
+    left: 60%;
+}
+.wrapper nav #navBtn5:checked ~ .tab{
+    left: 80%;
+}
+/* MOVE A POSIÇAO DA TAB DEPOIS DO HOVER */
+.wrapper nav #navBtn1:hover ~ .tab{
+    left: 0%;
+}
+.wrapper nav #navBtn2:hover ~ .tab{
+    left: 20%;
+}
+.wrapper nav #navBtn3:hover ~ .tab{
+    left: 40%;
+}
+.wrapper nav #navBtn4:hover ~ .tab{
+    left: 60%;
+}
+.wrapper nav #navBtn5:hover ~ .tab{
+    left: 80%;
+}
+
+.wrapper nav input{
+    display: none;
+}
+
+
+
