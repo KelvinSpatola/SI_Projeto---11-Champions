@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Selecionar jornada</title>
+</head>
+<body>
+
+<form name="myform" action="SelecionarJornadas.php" method="POST">
+    <label for = "EQUIPAS"> Selecione uma equipa:</label>
+    <select name="mydropdown">
+        <option value="1">equipa 1</option>
+        <option value="2">equipa 2</option>
+        <option value="3">equipa 3</option>
+        <option value="1">equipa 4</option>
+        <option value="2">equipa 5</option>
+    </select>
+    <input type="submit" name='submit' value="REMOVER EQUIPA">
+    <br><br>
+</form>
+</body>
+</html>
+
+<?php
+        if(isset($_POST['submit'])){
+            echo $nomeEquipa = $_POST
+        }
+
+
+        ?>
