@@ -1,0 +1,11 @@
+Daniel Guimarães,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/215414.webp
+Rúben Freitas,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Pedrão,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Lucas Kal,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/234124.webp
+Witi,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/226720.webp
+Nuno Borges,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Vincent Thill,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/234317.webp
+Rúben Micael,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/190779.webp
+Camacho,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/213705.webp
+Brayan Riascos,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/235077.webp
+Kenji Gorré,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/213694.webp

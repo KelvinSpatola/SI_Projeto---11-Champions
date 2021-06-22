@@ -1,0 +1,11 @@
+Amir Abedzadeh,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/237419.webp
+Cláudio Winck,LDO,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Renê Santos,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/238479.webp
+Zainadine,DC,https://www.fifaindex.com/static/FIFA21/images/players/5/217235.webp
+Lucas Áfrico,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/244006.webp
+Fábio China,LEO,https://www.fifaindex.com/static/FIFA21/images/players/5/234164.webp
+Jean Cléber,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/234853.webp
+Franck Bambock,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/229677.webp
+Edgar Costa,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/194956.webp
+Rodrigo Pinho,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/229683.webp
+Jorge Correa,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/220938.webp

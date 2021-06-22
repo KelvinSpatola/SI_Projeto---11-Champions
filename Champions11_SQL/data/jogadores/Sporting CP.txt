@@ -1,0 +1,11 @@
+Adán,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Pedro Porro,LDO,https://www.fifaindex.com/static/FIFA21/images/players/5/243576.webp
+Luís Neto,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/204341.webp
+Sebastián Coates,DC,https://www.fifaindex.com/static/FIFA21/images/players/5/197655.webp
+Zouhair Feddal,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Nuno Mendes,LEO,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Matheus Nunes,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Palhinha,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/229391.webp
+Pedro Gonçalves,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/240950.webp
+Jovane Cabral,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/244193.webp
+Nuno Santos,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/227890.webp

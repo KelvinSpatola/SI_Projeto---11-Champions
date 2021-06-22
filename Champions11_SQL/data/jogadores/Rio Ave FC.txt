@@ -1,0 +1,11 @@
+Paweł Kieszek,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/148526.webp
+Ivo Pinto,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/197860.webp
+Toni Borevković,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/244377.webp
+Aderllan Santos,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/213374.webp
+Pedro Amaral,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/251469.webp
+Tarantini,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/3281.webp
+Nikola Jambor,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/234635.webp
+Lucas Piazón,MCO,https://www.fifaindex.com/static/FIFA21/images/players/5/203038.webp
+Carlos Mané,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/216749.webp
+André Pereira,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/241720.webp
+Diego Lopes,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/210016.webp

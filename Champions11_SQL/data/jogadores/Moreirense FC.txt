@@ -1,0 +1,11 @@
+Mateus Pasinato,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/251503.webp
+Anthony DAlberto,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/233849.webp
+Lazar Rosić,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/235002.webp
+Steven Vitória,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/192528.webp
+Pedro Amador,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Fábio Pacheco,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/184606.webp
+Felipe Pires,MD,https://www.fifaindex.com/static/FIFA21/images/players/5/226706.webp
+Alex Soares,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/219751.webp
+Filipe Soares,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/252139.webp
+Pedro Nuno,ME,https://www.fifaindex.com/static/FIFA21/images/players/5/224538.webp
+André Luís,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp

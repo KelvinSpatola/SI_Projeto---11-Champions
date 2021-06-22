@@ -1,0 +1,11 @@
+Rafael Defendi,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/224655.webp
+Alex Pinto,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/238759.webp
+César,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Cássio Scheid,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Fábio Nunes,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Filipe Melo,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/223473.webp
+Cláudio Falcão,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/240316.webp
+Jonatan Lucca,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/210365.webp
+Ryan Gauld,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/208919.webp
+Nikola Stojiljković,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/230094.webp
+Brian Mansilla,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/228711.webp

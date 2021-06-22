@@ -1,0 +1,11 @@
+Agustín Marchesín,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/201095.webp 
+Wilson Manafá,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/238857.webp
+Chancel Mbemba,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/210897.webp
+Pepe,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/120533.webp
+Zaidu Sanusi,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Mamadou Loum,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/245021.webp
+Jesús Corona,MD,https://www.fifaindex.com/static/FIFA21/images/players/5/193165.webp
+Mateus Uribe,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/214047.webp
+Sérgio Oliveira,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/198031.webp
+Otávio,ME,https://www.fifaindex.com/static/FIFA21/images/players/5/227536.webp
+Moussa Marega,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/227536.webp 

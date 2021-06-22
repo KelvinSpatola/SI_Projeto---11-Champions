@@ -1,0 +1,11 @@
+Samuel Portugal,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/227819.webp
+Koki Anzai,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/242776.webp
+Willyan,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/251901.webp
+Maurício,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/232310.webp
+Fali Candé,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Pedro Sá,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/238856.webp
+Dener,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/205594.webp
+Lucas Fernandes,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/234119.webp
+Anderson Oliveira,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Fabrício,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/202350.webp
+Aylton,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/239186.webp

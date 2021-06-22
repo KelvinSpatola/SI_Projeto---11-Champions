@@ -1,0 +1,11 @@
+Odisseas Vlachodimos,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/211990.webp
+Gilberto,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/211567.webp
+Nicolás Otamendi,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/192366.webp
+Jan Vertonghen,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/172871.webp
+Grimaldo,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/210035.webp
+Rafa,MD,https://www.fifaindex.com/static/FIFA21/images/players/5/216547.webp 
+Gabriel,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/208141.webp 
+Adel Taarabt,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/179605.webp 
+Everton,ME,https://www.fifaindex.com/static/FIFA21/images/players/5/222716.webp
+Luca Waldschmidt,AC,https://www.fifaindex.com/static/FIFA21/images/players/5/220085.webp
+Darwin Núñez,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/253072.webp

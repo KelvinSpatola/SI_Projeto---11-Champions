@@ -1,0 +1,11 @@
+Ivan Zlobin,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/236046.webp
+Patrick William,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/252150.webp
+Srđan Babić,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Riccieli,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/252095.webp
+Calvin Verdonk,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Gustavo Assunção,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/248386.webp
+Guga Rodrigues,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/251294.webp
+Bruno Jordão,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/240175.webp
+Rúben Lameiras,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/225363.webp
+Rubén,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Carlos,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp

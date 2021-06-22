@@ -1,0 +1,11 @@
+André Moreira,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/224953.webp
+Tiago Esgaio,LDO,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Thibang Phete,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/231688.webp
+Henrique,DC,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Tomás Ribeiro,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Rúben Lima,LEO,https://www.fifaindex.com/static/FIFA21/images/players/5/192156.webp
+Cauê,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Afonso Taira,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/204729.webp
+Miguel Cardoso,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Mateo Cassierra,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/227557.webp
+Varela,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/172672.webp

@@ -1,0 +1,11 @@
+Marco Pereira,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/176630.webp
+Rafael Ramos,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/224891.webp
+Mikel Villanueva,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/233329.webp
+Fábio Cardoso,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/213917.webp
+Mansur,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Costinha,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/229473.webp
+Osama Rashid,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/200683.webp
+Lincoln,MCO,https://www.fifaindex.com/static/FIFA21/images/players/5/233585.webp
+Diogo Salomão,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/200271.webp
+Thiago Santana,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Carlos Júnior,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/219686.webp

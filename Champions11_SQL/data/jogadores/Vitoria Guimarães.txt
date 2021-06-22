@@ -1,0 +1,11 @@
+Bruno Varela,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Zié,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Jorge Fernandes,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/242359.webp
+Easah Suliman,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/227219.webp
+Sílvio,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Mikel Agu,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/209984.webp
+André André,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/199626.webp
+Rochinha,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/222461.webp
+Marcus Edwards,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/235619.webp
+Bruno Duarte,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Quaresma,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp

@@ -1,0 +1,11 @@
+Denis,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/182087.webp
+Joel Pereira,LDO,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Ygor Nogueira,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/225386.webp
+Rodrigão,DC,https://www.fifaindex.com/static/FIFA21/images/players/5/240795.webp
+Rúben Fernandes,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/18115.webp
+João Talocha,LEO,https://www.fifaindex.com/static/FIFA21/images/players/5/234935.webp
+João Afonso,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/220693.webp
+Claude Gonçalves,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/219780.webp
+Samuel Lino,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Miullen,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Antoine Leautey,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/237198.webp

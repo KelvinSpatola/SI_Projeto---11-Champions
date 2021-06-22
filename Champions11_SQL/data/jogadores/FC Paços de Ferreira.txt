@@ -1,0 +1,11 @@
+Jordi,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Zé Uilton,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Marco Baixinho,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/229496.webp
+Marcelo,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/205340.webp
+Oleg Reabciuk,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/241073.webp
+Luíz Carlos,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/148403.webp
+Stephen Eustáquio,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/242380.webp
+João Amaral,MCO,https://www.fifaindex.com/static/FIFA21/images/players/5/234949.webp
+Hélder Ferreira,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/239446.webp
+Douglas Tanque,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/220735.webp
+Luther Singh,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/237539.webp

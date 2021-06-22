@@ -1,0 +1,11 @@
+Babacar Niasse,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/234049.webp
+Bebeto,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/239875.webp
+Yohan Tavares,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/199051.webp
+Ricardo Alves,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Filipe Ferreira,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/215665.webp
+Pedro Augusto,MDC,https://www.fifaindex.com/static/FIFA21/images/players/5/252291.webp
+João Pedro,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/213557.webp
+Jaume Grau,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/246918.webp
+Salvador Agra,ED,https://www.fifaindex.com/static/FIFA21/images/players/5/204737.webp
+Tomislav Štrkalj,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Rafael Barbosa,EE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp

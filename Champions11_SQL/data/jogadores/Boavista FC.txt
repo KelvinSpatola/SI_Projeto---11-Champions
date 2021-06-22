@@ -1,0 +1,11 @@
+Léo Jardim,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/226085.webp
+Reggie Cannon,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/237000.webp
+Adil Rami,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Chidozie Awaziem,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/232693.webp
+Ricardo Mangas,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Nuno Santos,MDD,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Javi García,MDE,https://www.fifaindex.com/static/FIFA21/images/players/5/161754.webp
+Gustavo Sauer,MD,https://www.fifaindex.com/static/FIFA21/images/players/5/230665.webp
+Paulinho,ME,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp
+Angel Gomes,MCO,https://www.fifaindex.com/static/FIFA21/images/players/5/240507.webp
+Jorge Benguche,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/notfound.webp

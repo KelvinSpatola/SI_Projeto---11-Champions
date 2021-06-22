@@ -1,0 +1,11 @@
+Matheus,GR,https://www.fifaindex.com/static/FIFA21/images/players/5/208104.webp
+Ricardo Esgaio,DD,https://www.fifaindex.com/static/FIFA21/images/players/5/212213.webp
+Bruno Viana,DCD,https://www.fifaindex.com/static/FIFA21/images/players/5/234226.webp
+David Carmo,DCE,https://www.fifaindex.com/static/FIFA21/images/players/5/251616.webp
+Sequeira,DE,https://www.fifaindex.com/static/FIFA21/images/players/5/217546.webp
+Iuri Medeiros,MD,https://www.fifaindex.com/static/FIFA21/images/players/5/212230.webp
+Castro,MCD,https://www.fifaindex.com/static/FIFA21/images/players/5/184133.webp
+Fransérgio,MCE,https://www.fifaindex.com/static/FIFA21/images/players/5/195096.webp
+Galeno,ME,https://www.fifaindex.com/static/FIFA21/images/players/5/239482.webp
+Ricardo Horta,AC,https://www.fifaindex.com/static/FIFA21/images/players/5/213516.webp
+Paulinho,PL,https://www.fifaindex.com/static/FIFA21/images/players/5/216531.webp
